@@ -74,7 +74,7 @@ const detectTriangle = (a, b, c) => {
   }
 
   if (a === b || a === c || b === c) {
-    return "Segitiga sama kaki";
+    return "Segitiga sama kakinya siapa gitu";
   }
 
   return "Segitiga sembarang";
